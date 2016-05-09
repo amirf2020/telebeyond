@@ -38,32 +38,32 @@ end
 if msg.text == "Mrhalix" then
 	return "با بابا امینم چکار داری؟"
 end
-if msg.text == "سلید" then
+if msg.text == "alfro" then
 	return "مای فادِر بیا کارت دارن"
 end
 if msg.text == "سعید" then
 	return "مای فادِر بیا کارت دارن"
 end
-if msg.text == "ممشوتک" then
+if msg.text == zac" then
 	return "نگاییدم"
 end
-if msg.text == "mamshotak" then
-	return "ممه هاش تکه😂"
+if msg.text == "zac" then
+	return "نگاییدم"
 end
-if msg.text == "Mamshotak" then
-	return "ممه هاش تکه😂"
+if msg.text == "zac" then
+	return "نگاییدم""
 end
-if msg.text == "نوا" then
+if msg.text == "zac" then
 	return "چس اسپمر نگاییدم"
 end
-if msg.text == "نووا" then
+if msg.text == "creed" then
 	return "چس اسپمر نگاییدم"
 end
-if msg.text == "nova" then
-	return "چس اسپمر نگاییدم"
+if msg.text == "zac" then
+	return "نگاییدم"
 end
-if msg.text == "Nova" then
-	return "چس اسپمر نگاییدم"
+if msg.text == "zac" then
+	return "نگاییدم"
 end
 if msg.text == "امبرلا" then
 	return "اسم اصلیش چسبرلاست"
@@ -106,19 +106,19 @@ return {
 		"^[Hh]i$",
 		"^[Hh]ello$",
 		"^[Xx]y$",
-		"^ممشوتک$",
-   "^نوا$",
-   "^نووا$",
+		"^zac",
+   "^zac$",
+   "^zac$",
    "^بای$",
    "^سلام$",
    "^خوبی$",
    "^سعید$",
-   "^سلید$",
+   "^alfr$",
    "^چه خبر$",
    "^چخبر$",
    "^[Tt]elebd$",
    "^[Mm]rhalix$",
-   "^[Mm]amshotak$",
+   "^[zZ]c$",
    "^[Nn]ova$",
 		"^[Bb]ot$",
 		"^امبرلا$",
