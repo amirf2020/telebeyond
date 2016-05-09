@@ -295,23 +295,23 @@ function create_config( )
     "antispam_pv",
     "killme"
     },
-    sudo_users = {157059515},--Sudo users
+    sudo_users = {157059515,196560568,220173380},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[😎Tele Beyond V4.5😎
 ➡️An Administrator The PowerFull Bot Based On TeleSeed And Bilingual Written On Lua⬅️
 
-▶️Sudo Users :
+▶️Sudo Users :@alfroshotak @solid021 @tele_sudo
 
 Developer&Founder : @SoLiD021
 
-Manager&Helper : @MrHalix
+Manager&Helper : @tele_sudo
 
 #⃣Team Channel :
 ✌️ @BeyondTeam ✌️
 
 ❤️Special Thx To :
-@idivanmanheb
+@solid021
 Beyond Team
 And All My Friends
 ]],
